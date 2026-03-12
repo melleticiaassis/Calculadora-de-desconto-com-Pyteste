@@ -1,4 +1,4 @@
-# 📉 Calculadora de Desconto em Python
+# 📉 Calculadora de Desconto em Python com pytest
 
 Este projeto implementa uma função em **Python** para calcular o preço final de um produto após aplicar um desconto percentual.
 O projeto também inclui **testes automatizados utilizando Pytest** para garantir o funcionamento correto da função.
